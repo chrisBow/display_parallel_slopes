@@ -1,4 +1,6 @@
-This code and accompanying dataset site alongside an article written for Medium. I will post the link here once published.
+This code and accompanying dataset site alongside an article written for Medium. The article can be found here:
+
+https://blog.markgrowth.com/the-roas-might-look-like-0-but-is-your-display-campaign-actually-working-192f5e132f2a
 
 The dataset is a .csv of synthetic figures from a fictional Google Ads account. The figures relate to a single search campaign, with the `display` variable representing whether a display ads campaign was running (1) or not (0).
 
